@@ -11,11 +11,11 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
 	<dependencies>
-		<!-- Java EE 7 API -->
+		<!-- Java EE 8 API -->
 		<dependency>
 			<groupId>javax</groupId>
 			<artifactId>javaee-api</artifactId>
-			<version>7.0</version>
+			<version>8.0</version>
 			<scope>provided</scope>
 		</dependency>
 	</dependencies>
